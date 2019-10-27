@@ -3,3 +3,6 @@ def pipeline():
 
 def stankbox():
     return { "stankbox": "tseting" }
+
+def dbdeleter():
+    return { "awwwww": "jeaaaaa" }
